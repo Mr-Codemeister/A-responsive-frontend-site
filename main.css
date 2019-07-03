@@ -1,0 +1,52 @@
+.columnxd{
+  padding: 30px;
+  margin: 0px auto;
+
+}
+
+.boxy{
+  margin: 10px;
+
+}
+.together{
+  margin: 0 auto 0 auto;
+}
+
+.cardtext{
+  font-size: 1.1em;
+  text-align: center;
+}
+
+.cardtitle,.brand{
+  text-align: center;
+}
+
+.size{
+  font-size: 12px;
+}
+/* .one , .new-Categories{
+  display: inline-block;
+} */
+.img{
+  height: 30px;
+  width: 40px;
+}
+
+.set_margin{
+  margin: 10px 0 10px 0
+}
+
+.addinfo, .addcategories{
+  margin: 10px 0 10px 0;
+}
+
+.edit{
+  color: Purple;
+}
+h4{
+  font-weight: bold;
+}
+.alert{
+  padding: 10px;
+
+}
