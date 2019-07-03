@@ -44,7 +44,7 @@ $('.row').on('click','.saveevent',function(){
 
 // if someone clicks on delete button
 $('.row').on('click', '.delete', function(){
-  $(this).closest('.row').find('.columnxd').eq(0).remove();
+  $(this).closest('.columnxd').remove();
   c=c-1
 })
 
